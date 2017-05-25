@@ -1,0 +1,56 @@
+.main-agileits {
+    width: 90%;
+}
+.title {
+    text-align: left;
+    color: #1565c0;
+}
+.mail-grid {
+    width: 26%;
+}
+.mail-bottom h4 {
+    font-size: 2em;
+    text-align: left;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: #1565c0;
+}
+.mail-bottom input[type="text"], .mail-bottom input[type="email"] {
+     width: 25%;
+    float: left;
+}
+.mail-bottom textarea {
+    min-height: 200px;
+    resize: none;
+    width: 76%;
+    margin: 1em 0;
+}
+.wrapper {
+    margin: 60px;
+}
+.well {
+    height: 250px;
+}
+/**img {
+    height: 50px;
+    width: 50px;
+}**/
+label {
+    display: block;
+    margin: 10px;
+    font-size: 15px;
+}
+.content {
+    background-color: #F9F8F8;
+}
+.products-agileinfo {
+    background-color: #F9F8F8;
+    margin-top: 20px;
+}
+.btn-warning{
+    height: 40px;
+    width: 150px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+}
